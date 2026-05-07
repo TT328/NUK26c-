@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/bg.mp4</file>
+        <file>res/music.mp3</file>
+        <file>res/cards/1.png</file>
+        <file>res/cards/2.png</file>
+        <file>res/cards/3.png</file>
+        <file>res/cards/4.png</file>
+        <file>res/cards/5.png</file>
+        <file>res/cards/6.png</file>
+        <file>res/cards/7.png</file>
+        <file>res/cards/8.png</file>
+        <file>res/cards/back.png</file>
+    </qresource>
+</RCC>
